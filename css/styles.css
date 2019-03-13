@@ -1,0 +1,17 @@
+h1{
+  color: maroon;
+  text-align: center;
+  background-color: tan;
+}
+h2{
+  color: gray;
+  text-align: left;
+}
+h3{
+  color: gray;
+  text-align: center;
+  font-style: italic;
+}
+body{
+  background-color: tan;
+}
