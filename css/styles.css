@@ -1,3 +1,17 @@
 h1{
-  color: maroon;
+  color: yellow;
+  text-align: center;
+}
+h2{
+  color: darkgray;
+  text-align: right;
+}
+h3{
+  color: tan;
+  text-align: center;
+  font-style: oblique;
+  font-family: monospace;
+}
+body{
+  background-color: maroon;
 }
